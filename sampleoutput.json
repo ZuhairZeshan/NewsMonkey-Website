@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Mia Sato",
+            "title": "How one small company’s SEO garbage made it to Sports Illustrated and USA Today",
+            "description": "A company called AdVon Commerce was behind seemingly AI-generated content at Sports Illustrated and USA Today. Its cofounder, Ben Faw, has flooded the web with garbage for years.",
+            "url": "http://www.theverge.com/24195879/advon-commerce-ai-sports-illustrated-gannett-product-reviews-spam-seo",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/zdSCFyROVfX4GHPp-KxnOGdT3YQ=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25523941/Hanneke_Rozemuller_Advon_lede.jpg",
+            "publishedAt": "2024-07-11T14:00:00Z",
+            "content": "The man behind the AI gaffes at Sports Illustrated and USA Today has a yearslong history of filling the internet with garbage.\r\nByMia Sato, platforms and communities reporter with five years of exper… [+25064 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Léa Bello, Marceau Bretonnier, Mahé Richard-Schmidt",
+            "title": "Les méthodes de la SNCF pour cacher une partie des retards de ses trains",
+            "description": "Selon les chiffres de la SNCF, seulement 12,5 % des TGV sont arrivés en retard en 2023. La même année, l’Autorité de régulation des transports comptabilisait 23,3 % de retards. « Le Monde » a enquêté et découvert les méthodes de comptage avantageuses du group…",
+            "url": "https://www.lemonde.fr/economie/article/2024/07/11/les-methodes-de-la-sncf-pour-camoufler-une-partie-de-ses-retards_6248470_3234.html",
+            "urlToImage": "https://img.lemde.fr/2024/07/04/0/266/2454/1636/1440/960/60/0/b0aa8dd_1720088604403-thumbnail-sncf-retards-banniere-copie.png",
+            "publishedAt": "2024-07-11T03:45:02Z",
+            "content": "La différence est spectaculaire. Dun côté, les données de la SNCF affirment que seulement un TGV sur huit est arrivé en retard en 2023. De lautre, lAutorité de régulation des transports (ART) évoque … [+1225 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "John Fanta, Michael Cohen",
+            "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+            "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+            "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2024-02-29T20:59:30Z",
+            "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+        },
+        {
+            "source": {
+                "id": "nrk",
+                "name": "NRK"
+            },
+            "author": "NRK",
+            "title": "De siste sportsnyhetene fra NRK",
+            "description": "Her får du de siste sportsnyhetene fra NRK.",
+            "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16964960.1.16964960",
+            "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+            "publishedAt": "2019-08-14T09:09:42Z",
+            "content": "14. juli2024kl.17:38Det var nærmest som en reprise av fjorårets Wimbledon-finale da spanske Carlos Alcaraz (21) møtte serbiske Novak Djokovic (37) på gressmatta i London.\r\nMed celebre gjester som pri… [+1760 chars]"
+        }
+    ]
+}
